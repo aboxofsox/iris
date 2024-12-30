@@ -19,7 +19,7 @@ func main() {
 } 
 ```
 
-### Setting Foreground Text Color
+### Setting Foreground Color
 
 ```go
 package main
@@ -36,7 +36,7 @@ func main() {
 
 ```
 
-### Setting Background Text Color
+### Setting Background Color
 ```go
 package main
 
